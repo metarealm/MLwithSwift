@@ -12,7 +12,7 @@
 - Swift for TensorFlow - Ground Up machine learning (Mostly Deep learning)
 	- [Swift for TensorFlow](https://www.tensorflow.org/swift)
 - Other Machine learning frameworks written in Swift 
-	- Framework Created by Swift AI  - [Github Link](https://github.com/Swift-AI/NeuralNet)
+	- **NeuralNet** Framework Created by Swift AI  - [Github Link](https://github.com/Swift-AI/NeuralNet)
 	- Bender Framework by xmartlabs - [Github Link](https://github.com/xmartlabs/Bender)
 	- Braincore The -  iOS and OS X neural network framework - [Github Link](https://github.com/alejandro-isaza/BrainCore)
 	- (SWIX)Swift Matrix and Machine Learning Library - [Site Link](https://stsievert.com/swix/) [Github Link](https://github.com/stsievert/swix)
