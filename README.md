@@ -10,5 +10,5 @@
 	- [Accelerate framework Documentation](https://developer.apple.com/documentation/accelerate)
 - Ground Up machine learning (Mostly Deep learning) with Tensorflow for swift
 - Other Machine learning frameworks written in Swift 
-	- Framework Created by Swift AI  - [Github Link]https://github.com/Swift-AI/NeuralNet
+	- Framework Created by Swift AI  - [Github Link](https://github.com/Swift-AI/NeuralNet)
 
