@@ -25,17 +25,27 @@ I love swift programming language . Here I am capturing my journey to understand
 	
 In this Post I will focus mostly on the Apple Core/Create ML framework and the Swift for TensorFlow project from Google. Most of the other initiatives are not updated in last couple of years . I think this is given the fact swift for tensforflow will fill out the gap for auto-diff and neural net in Swift .
 
-##Apple CoreML/CreateML 
-
-
-##Swift for TensorFlow
+## Apple CoreML/CreateML 
 
 
 ### How To get Started and  Use
-- High Performance Numeric Programming with SwiftBy [Fast.ai]( https://www.fast.ai/2019/01/10/swift-numerics/)
+
 
 ### Videos and tutorials
+
+	
+### Important publications and Documentation
 - High Performance Numeric Programming with SwiftBy [Fast.ai]( https://www.fast.ai/2019/01/10/swift-numerics/)
+
+
+## Swift for TensorFlow
+
+
+### How To get Started and  Use
+
+
+### Videos and tutorials
+
 	
 ### Important publications and Documentation
 - High Performance Numeric Programming with SwiftBy [Fast.ai]( https://www.fast.ai/2019/01/10/swift-numerics/)
