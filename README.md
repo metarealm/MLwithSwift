@@ -5,12 +5,12 @@ I love swift programming language . Here I am capturing my journey to understand
 ## Below are the main paths/frameworks for machine learning in swift
 
 - Apple CoreML/CreateML 
-	- [Core ML Documentation](https://developer.apple.com/documentation/coreml)
-	- [Create ML Documentation](https://developer.apple.com/documentation/createml)
-	- [Accelerate framework Documentation](https://developer.apple.com/documentation/accelerate)
-	- [Swift Numerics](https://github.com/apple/swift-numerics)
+	- **Core ML** [Documentation](https://developer.apple.com/documentation/coreml)
+	- **Create ML** [Documentation](https://developer.apple.com/documentation/createml)
+	- **Accelerate** [Documentation](https://developer.apple.com/documentation/accelerate)
+	- **Swift Numerics** [Documentation](https://github.com/apple/swift-numerics)
 - Swift for TensorFlow - Ground Up machine learning (Mostly Deep learning)
-	- [Swift for TensorFlow](https://www.tensorflow.org/swift)
+	- **Swift for TensorFlow** [Site Link](https://www.tensorflow.org/swift) [Github Link](https://github.com/tensorflow/swift)
 - Other Machine learning frameworks written in Swift 
 	- **NeuralNet** Framework Created by Swift AI  - [Github Link](https://github.com/Swift-AI/NeuralNet)
 	- **Swift-AI** Framework Created by Swift AI  - [Github Link](https://github.com/Swift-AI/Swift-AI)
