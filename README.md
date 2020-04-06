@@ -8,8 +8,8 @@
 	- [Core ML Documentation](https://developer.apple.com/documentation/coreml)
 	- [Create ML Documentation](https://developer.apple.com/documentation/createml)
 	- [Accelerate framework Documentation](https://developer.apple.com/documentation/accelerate)
-- Tensorflow for swift - Ground Up machine learning (Mostly Deep learning)
-
+- Swift for TensorFlow - Ground Up machine learning (Mostly Deep learning)
+	- [Swift for TensorFlow](https://www.tensorflow.org/swift)
 - Other Machine learning frameworks written in Swift 
 	- Framework Created by Swift AI  - [Github Link](https://github.com/Swift-AI/NeuralNet)
 
