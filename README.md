@@ -15,7 +15,7 @@
 	- **NeuralNet** Framework Created by Swift AI  - [Github Link](https://github.com/Swift-AI/NeuralNet)
 	- **Swift-AI** Framework Created by Swift AI  - [Github Link](https://github.com/Swift-AI/Swift-AI)
 	- Bender Framework by xmartlabs - [Github Link](https://github.com/xmartlabs/Bender)
-	- Braincore The -  iOS and OS X neural network framework - [Github Link](https://github.com/alejandro-isaza/BrainCore)
+	- **Braincore** The -  iOS and OS X neural network framework - [Github Link](https://github.com/alejandro-isaza/BrainCore)
 	- **SWIX** Swift Matrix and Machine Learning Library - [Site Link](https://stsievert.com/swix/) [Github Link](https://github.com/stsievert/swix)
 	- **AItookbox** A toolbox of AI modules written in Swift -[Github Link](https://github.com/KevinCoble/AIToolbox)
 	- **MLKit** A simple machine learning framework written in Swift - [Github Link](https://github.com/Somnibyte/MLKit)
