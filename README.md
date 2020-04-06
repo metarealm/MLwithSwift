@@ -23,10 +23,22 @@ I love swift programming language . Here I am capturing my journey to understand
 	- **Perfect-TensorFlow** TensorFlow C API Class Wrapper in Swift. [Github Link](https://github.com/PerfectlySoft/Perfect-TensorFlow)
 	- **prediction-builder-swift** -Linear Regression - [Github Link](https://github.com/denissimon/prediction-builder-swift)
 	
-	
-## Helpful publications
+In this Post I will focus mostly on the Apple Core/Create ML framework and the Swift for TensorFlow project from Google. Most of the other initiatives are not updated in last couple of years . I think this is given the fact swift for tensforflow will fill out the gap for auto-diff and neural net in Swift .
 
-- [High Performance Numeric Programming with Swift by Fast.ai]( https://www.fast.ai/2019/01/10/swift-numerics/)
+##Apple CoreML/CreateML 
+
+
+##Swift for TensorFlow
+
+
+### How To get Started and  Use
+- High Performance Numeric Programming with SwiftBy [Fast.ai]( https://www.fast.ai/2019/01/10/swift-numerics/)
+
+### Videos and tutorials
+- High Performance Numeric Programming with SwiftBy [Fast.ai]( https://www.fast.ai/2019/01/10/swift-numerics/)
+	
+### Important publications and Documentation
+- High Performance Numeric Programming with SwiftBy [Fast.ai]( https://www.fast.ai/2019/01/10/swift-numerics/)
 
 ## Where to get Pretrained Models to be used
 - Collection of models for Core ML [awesome-CoreML-models](https://github.com/SwiftBrain/awesome-CoreML-models)
