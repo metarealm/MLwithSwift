@@ -35,6 +35,7 @@ In this Post I will focus mostly on the Apple Core/Create ML framework and the S
 
 	
 ### Important publications and Documentation
+- Why data scientists should start learning Swift [heartbeat](https://heartbeat.fritz.ai/why-data-scientists-should-start-learning-swift-66c3643e0d0d)
 - High Performance Numeric Programming with SwiftBy [Fast.ai]( https://www.fast.ai/2019/01/10/swift-numerics/)
 
 
