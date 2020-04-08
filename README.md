@@ -11,6 +11,7 @@ I love swift programming language . Here I am capturing my journey to understand
 	- **Swift Numerics** [Documentation](https://github.com/apple/swift-numerics)
 - Swift for TensorFlow - Ground Up machine learning (Mostly Deep learning)
 	- **Swift for TensorFlow** [Site Link](https://www.tensorflow.org/swift) [Github Link](https://github.com/tensorflow/swift)
+	- Swift for TensorFlow's high-level API, modeled after fastai [Github Link](https://github.com/fastai/swiftai)
 - Other Machine learning frameworks written in Swift 
 	- **NeuralNet** Framework Created by Swift AI  - [Github Link](https://github.com/Swift-AI/NeuralNet)
 	- **Swift-AI** Framework Created by Swift AI  - [Github Link](https://github.com/Swift-AI/Swift-AI)
