@@ -27,6 +27,11 @@ I love swift programming language . Here I am capturing my journey to understand
 In this Post I will focus mostly on the Apple Core/Create ML framework and the Swift for TensorFlow project from Google. Most of the other initiatives are not updated in last couple of years . I think this is given the fact swift for tensforflow will fill out the gap for auto-diff and neural net in Swift .
 
 https://heartbeat.fritz.ai/core-ml-on-device-training-with-transfer-learning-from-swift-for-tensorflow-models-1264b444e18d
+https://heartbeat.fritz.ai/swift-loves-tensorflow-and-core-ml-8adb52838931
+https://github.com/JacopoMangiavacchi/S4TF_CoreML_Test
+https://heartbeat.fritz.ai/coreml-with-glove-word-embedding-and-recursive-neural-network-part-2-d72c1a66b028
+https://heartbeat.fritz.ai/swift-for-tensorflow-simulation-34e39ccda83f
+https://medium.com/@JMangia/swift-for-tensorflow-simulation-1cef3be39b79
 
 ## Apple CoreML/CreateML 
 
@@ -40,6 +45,10 @@ https://heartbeat.fritz.ai/core-ml-on-device-training-with-transfer-learning-fro
 ### Important publications and Documentation
 - Why data scientists should start learning Swift [heartbeat](https://heartbeat.fritz.ai/why-data-scientists-should-start-learning-swift-66c3643e0d0d)
 - High Performance Numeric Programming with SwiftBy [Fast.ai]( https://www.fast.ai/2019/01/10/swift-numerics/)
+- https://heartbeat.fritz.ai/implementing-a-natural-language-classifier-in-ios-with-keras-core-ml-358f114c0b51
+- https://medium.com/@JMangia/coreml-nlc-with-keras-tensorflow-and-apple-nslinguistictagger-cd971cda64c9
+- https://medium.com/@JMangia/super-simple-end-to-end-test-of-keras-tensorflow-and-coreml-f247ab73fb42
+- Swift: Google’s bet on differentiable programming [try labs](https://tryolabs.com/blog/2020/04/02/swift-googles-bet-on-differentiable-programming/)
 
 
 ## Swift for TensorFlow
