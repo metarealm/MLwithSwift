@@ -26,6 +26,8 @@ I love swift programming language . Here I am capturing my journey to understand
 	
 In this Post I will focus mostly on the Apple Core/Create ML framework and the Swift for TensorFlow project from Google. Most of the other initiatives are not updated in last couple of years . I think this is given the fact swift for tensforflow will fill out the gap for auto-diff and neural net in Swift .
 
+https://heartbeat.fritz.ai/core-ml-on-device-training-with-transfer-learning-from-swift-for-tensorflow-models-1264b444e18d
+
 ## Apple CoreML/CreateML 
 
 
